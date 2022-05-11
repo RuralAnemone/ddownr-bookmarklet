@@ -1,2 +1,2 @@
-# ddownr-booknarklet
+# ddownr-bookmarklet
 ddownr bookmarklet
